@@ -7,36 +7,16 @@
 
 ---
 
-## 🚀 About Me
+##  Tech Stack
 
-I am a backend developer focused on Django and REST APIs, building scalable and AI-powered web applications. I am constantly learning new technologies and techniques, and I enjoy turning ideas into real-world products that are practical and impactful.
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudhanchaudhary&theme=tokyonight&hide_border=true"/>
-</p>
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanchaudhary&theme=tokyo-night&hide_border=true"/>
-</p>
----
-
-## 🛠 Tech Stack
-
-### 👨‍💻 Languages
+###  Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python" height="30" width="30" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+###  Backend & Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -45,7 +25,7 @@ I am a backend developer focused on Django and REST APIs, building scalable and 
   <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### 🗄 Database & Tools
+###  Database & Tools
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -55,7 +35,7 @@ I am a backend developer focused on Django and REST APIs, building scalable and 
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+###  Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -65,18 +45,13 @@ I am a backend developer focused on Django and REST APIs, building scalable and 
 
 ---
 
-### 🌐 Developer Portfolio
-> Under progress
 
----
-
-
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
-  <a href="https://github.com/sudhanchaudhary" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://madhusudhanchaudhary.com.np/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
   <a href="https://www.linkedin.com/in/madhusudhan-chaudhary/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -85,6 +60,22 @@ I am a backend developer focused on Django and REST APIs, building scalable and 
   <a href="mailto:madhusudhan.chy007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sudhanchaudhary&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanchaudhary&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
